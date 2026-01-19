@@ -5,6 +5,7 @@
 - `char.txt`：包含單字
 - `word.txt`：包含詞語及成詞單字
 - `all.txt`：包含上述所有內容
+- `vocabs.txt`：只包含詞語
 
 ## 資料來源
 
@@ -29,6 +30,7 @@
 python scripts/extract_char.py
 python scripts/extract_word.py
 python scripts/extract_all.py
+python scripts/extract_vocab.py
 ```
 
 ## 其他
